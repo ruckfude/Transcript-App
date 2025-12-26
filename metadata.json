@@ -1,0 +1,7 @@
+{
+  "name": "fevapodcast",
+  "description": "Internal podcast transcription and analysis tool for fevapodcast team, powered by Gemini AI.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
